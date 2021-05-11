@@ -26,3 +26,7 @@ The stock market has always played a huge role in the global economy. That is wh
 ## Result
 
 The model is quite accurate in the beginning but the accuracy decreases as time increases.
+
+## Project Showcase
+
+- [Presentation Link](https://www.youtube.com/watch?v=s9Ht8ZHfpY8&t=1s)
